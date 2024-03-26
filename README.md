@@ -1,5 +1,4 @@
-### Hi there 👋
-
+大家好啊，我是Fischer。一名初入编程的小白。
 <!--
 **FischerWu/FischerWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
